@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="txt1">Number 1</string>
+    <string name="txt2">Number 2</string>
+    <string name="bOk">OK</string>
+    <string name="Result">Result</string>
+    <string name="bmultiply">*</string>
+    <string name="bplus">+</string>
+    <string name="bdivide">/</string>
+    <string name="bminus">-</string>
+</resources>
